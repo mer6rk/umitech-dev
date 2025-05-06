@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "DB Heavent Regular";
+    src: url('fonts/db_heavent/DB_Heavent_Regular.woff2');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "DB Heavent Bold";
+    src: url('fonts/db_heavent/DB_Heavent_Bold.woff2');
+    font-weight: bold;
+}
+
+*,
+::after,
+::before {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.db-heavent-regular {
+    font-family: "DB Heavent Regular", sans-serif;
+}
+
+.db-heavent-bold {
+    font-family: "DB Heavent Bold", sans-serif;
+}
+
+/* body background color */
+.bg-navy {
+    background-color: #293d5e;
+}
