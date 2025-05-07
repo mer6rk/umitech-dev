@@ -3,7 +3,7 @@
 define('DB_HOST', '127.0.0.1');
 define('DB_PORT', '3306');
 define('DB_USER', 'mer6rk');
-define('DB_PASS', '');
+define('DB_PASS', 'W!mPyKiD@1412*!=2603');
 define('DB_NAME', 'umitech_db');
 
 $dsn = "mysql:host=" . DB_HOST . ";port=" . DB_PORT . ";dbname=" . DB_NAME;

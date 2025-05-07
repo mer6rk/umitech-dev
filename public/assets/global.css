@@ -1,3 +1,4 @@
+/* DB Heavent Font */
 @font-face {
     font-family: "DB Heavent Regular";
     src: url('fonts/db_heavent/DB_Heavent_Regular.woff2');
@@ -8,6 +9,35 @@
     font-family: "DB Heavent Bold";
     src: url('fonts/db_heavent/DB_Heavent_Bold.woff2');
     font-weight: bold;
+}
+
+/* Sarabun Font */
+@font-face {
+    font-family: 'Sarabun Regular';
+    src: url('fonts/sarabun/regular/sarabun_regular.woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sarabun Regular Italic';
+    src: url('fonts/sarabun/regular/sarabun_regular_italic.woff2');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Sarabun Bold';
+    src: url('fonts/sarabun/bold/sarabun_bold.woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sarabun Bold Italic';
+    src: url('fonts/sarabun/bold/sarabun_bold_italic.woff2');
+    font-weight: bold;
+    font-style: italic;
 }
 
 *,
