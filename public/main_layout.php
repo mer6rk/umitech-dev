@@ -14,7 +14,9 @@ if (!defined('ACCESS_ALLOWED')) {
 
 <body>
     
-    <?php include 'partials/sidebar/side_panel.php'; ?>
+    <section class="sidebar-layout">
+        <?php include 'partials/sidebar/side_panel.php'; ?>
+    </section>
 
 </body>
 

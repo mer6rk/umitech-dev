@@ -49,11 +49,27 @@
 }
 
 .db-heavent-regular {
-    font-family: "DB Heavent Regular", sans-serif;
+    font-family: 'DB Heavent Regular', sans-serif;
 }
 
 .db-heavent-bold {
-    font-family: "DB Heavent Bold", sans-serif;
+    font-family: 'DB Heavent Bold', sans-serif;
+}
+
+.sarabun-regular {
+    font-family: 'Sarabun Regular', sans-serif;
+}
+
+.sarabun-regular-italic {
+    font-family: 'Sarabun Regular Italic', sans-serif;
+}
+
+.sarabun-bold {
+    font-family: 'Sarabun Bold', sans-serif;
+}
+
+.sarabun-bold-italic {
+    font-family: 'Sarabun Bold Italic', sans-serif;
 }
 
 /* body background color */
