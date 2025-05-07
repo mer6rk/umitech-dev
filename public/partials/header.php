@@ -12,4 +12,7 @@
 
     <!-- CSS Global -->
     <link rel="stylesheet" href="assets/global.css">
+
+    <!-- Jquery 3.7.1 -->
+    <script defer async src="assets/jquery/jquery-3.7.1.min.js"></script>
 </head>
